@@ -1,0 +1,9 @@
+{
+  "version": "1",
+  "name": "DB-EndSem",
+  "type": "collection",
+  "ignore": [
+    "node_modules",
+    ".git"
+  ]
+}
